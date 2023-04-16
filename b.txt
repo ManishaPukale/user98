@@ -1,0 +1,4 @@
+Variable:
+to store the data and info..
+variable start from alphabets understoke
+variables are not start from number...
